@@ -1,0 +1,26 @@
+{
+  "id": "64a1ee6e-4be1-405c-9425-c9edc3a24484",
+  "name": "ReportGlobal",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ReportGlobal.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
