@@ -4,6 +4,8 @@ page 50100 Demo
     Caption = 'Report Request Page Showcase';
     PageType = Card;
     SourceTable = "General Ledger Setup";
+    UsageCategory = ReportsAndAnalysis;
+    ApplicationArea = All;
 
     layout
     {
